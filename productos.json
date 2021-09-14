@@ -1,0 +1,181 @@
+[
+    {
+        "marca": "Glenfiddich 15 Años Distillery Edition", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "34624.99", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/Glenfiddich 15.jpg"
+    },
+  
+    {
+        "marca": "The Glenlivet 18 Años Batch Reserve", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "15199.49", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/TheGlenlivet 18.jpg"
+    },
+  
+    {
+        "marca": "Aultmore 12 Años", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "25499.99", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/Aultmore 12 Años.jpg"
+    },
+  
+    {
+        "marca": "The Balvenie Triple Cask 25 años", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "249639.99", 
+        "stock": "3", 
+        "img": ".//assets/imgWhisky/The Balvenie Triple Cask 25 años.jpg"
+    },
+  
+    {
+        "marca": "The MacAllan Sherry Cask 12 años", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "18899.99", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/The MacAllan Sherry Cask 12 años.jpg"
+    },
+  
+    {
+        "marca": "The MacAllan Edition Nº3", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "69129.99", 
+        "stock": "5", 
+        "img": ".//assets/imgWhisky/The MacAllan Edition Nº3.jpg"
+    },
+  
+    {
+        "marca": "Glenfarclas Edition Nº23 Distilled 1989", 
+        "tipo": "Single Malt", 
+        "origen": "Escocia", 
+        "precio": "396799.99", 
+        "stock": "1", 
+        "img": ".//assets/imgWhisky/Glenfarclas Edition Nº23.jpg"
+    },
+  
+    {
+        "marca": "Monkey Shoulder", 
+        "tipo": "Blended Scotch", 
+        "origen": "Escocia", 
+        "precio": "9899.49", 
+        "stock": "15", 
+        "img": ".//assets/imgWhisky/Monkey Shoulder.jpg"
+    },
+  
+    {
+        "marca": "Douglas Laing's Timorous Bestie", 
+        "tipo": "Blended Scotch", 
+        "origen": "Escocia", 
+        "precio": "10199.99", 
+        "stock": "15", 
+        "img": ".//assets/imgWhisky/Douglas Laing's Timorous Bestie.jpg"
+    },
+  
+    {
+        "marca": "Grand Old Parr 12 Años", "tipo": "Blended Scotch", 
+        "origen": "Escocia", 
+        "precio": "3899.48", 
+        "stock": "20", 
+        "img": ".//assets/imgWhisky/Grand Old Parr 12 Años.jpg"
+    },
+  
+    {
+        "marca": "Chivas Regal Royal Salute 21 Años -The Sapphire Flagon-", 
+        "tipo": "Blended Scotch", 
+        "origen": "Escocia", 
+        "precio": "24639.99", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/Chivas Regal Royal Salute 21 Años.jpg"
+    },
+  
+    {
+        "marca": "Johnnie Walker XR 21 Años", 
+        "tipo": "Blended Scotch", 
+         "origen": "Escocia", 
+         "precio": "25759.99", 
+         "stock": "10", 
+         "img": ".//assets/imgWhisky/Johnnie Walker XR 21 Años.jpg"
+        },
+  
+    {
+        "marca": "The Famous Grouse Gold Reserve 12 Años", 
+        "tipo": "Blended Scotch", 
+        "origen": "Escocia", 
+        "precio": "21274.49", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/The Famous Grouse Gold Reserve 12 Años.jpg"
+    },
+
+    {
+        "marca": "Jack Daniel's Old No.7 Tennessee Whisky", 
+        "tipo": "Bourbon", 
+        "origen": "USA", 
+        "precio": "4598.00", 
+        "stock": "20", 
+        "img": ".//assets/imgWhisky/Jack Daniel's Old No7 Tennessee Whisky.jpg"
+    },
+
+    {
+        "marca": "Maker's Mark Kentucky Straight", 
+        "tipo": "Bourbon", 
+        "origen": "USA", 
+        "precio": "9599.49", 
+        "stock": "20", 
+        "img": ".//assets/imgWhisky/Maker's Mark Kentucky Straight.jpg"
+    },
+
+    {
+        "marca": "Wild Turkey 101 Kentucky Straight",
+         "tipo": "Bourbon", 
+         "origen": "USA", 
+         "precio": "7389.90", 
+         "stock": "20", 
+         "img": ".//assets/imgWhisky/Wild Turkey 101 Kentucky Straight.jpg"
+        },
+
+    {
+        "marca": "Heritage Dual Barrel Rye", 
+        "tipo": "Bourbon", 
+        "origen": "USA", 
+        "precio": "11889.99", 
+        "stock": "20", 
+        "img": ".//assets/imgWhisky/Heritage Dual Barrel Rye.jpg"
+    },
+
+    {
+        "marca": "Four Roses Kentucky Straight", 
+        "tipo": "Bourbon", 
+        "origen": "USA", 
+        "precio": "17579.99", 
+        "stock": "20", 
+        "img": ".//assets/imgWhisky/Four Roses Kentucky Straight.jpg"
+    },
+
+    {
+        "marca": "Jack Daniel's Single Barrel Rye", 
+        "tipo": "Bourbon", 
+        "origen": "USA", 
+        "precio": "36799.99", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/Jack Daniel's Single Barrel Rye.jpg"
+    },
+
+    {
+        "marca": "Blanton's The Original Single Barrel", 
+        "tipo": "Bourbon", 
+        "origen": "USA", 
+        "precio": "54299.99", 
+        "stock": "10", 
+        "img": ".//assets/imgWhisky/Blanton's The Original Single Barre.jpg"
+    }
+    
+]

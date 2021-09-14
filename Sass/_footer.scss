@@ -1,0 +1,52 @@
+footer {
+    background-color: $spaceCadet;
+
+    & > .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.footer__banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    padding: 3rem 0;
+    color: $dutchOrange;
+    text-align: center;
+
+    & h2 {
+        font-size: 2.4rem;
+    }
+
+    & .btn {
+        margin-top: 2rem;
+
+        &:hover {
+            background: $darkBlueGray;
+            color: $dutchOrange;
+            background: transparent;
+        }
+    }
+}
+
+
+.social__icons {
+    display: flex;
+    padding: 3rem 0;
+
+    & a {
+        color: $darkBlueGray;
+        margin: 0 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 30px;
+        height: 30px;
+        font-size: 1.25rem;
+        transition: $trans;
+
+        &:hover {
+            color: $dutchOrange;
+        }
+    }
+}
