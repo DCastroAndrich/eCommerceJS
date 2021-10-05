@@ -123,8 +123,8 @@ header {
     column-gap: 0.5rem;
     align-items: center;
     position: relative;
-    padding: 1.2rem 0.6rem;
-    height: 140px;
+    padding: 0.2rem 0.6rem;
+    height: 150px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.21);
     
     &:last-child {
@@ -132,7 +132,8 @@ header {
     }
 
     & img {
-        width: 80px;
+        width: auto;
+        height: 138px;
     }
 }
 
@@ -181,9 +182,7 @@ header {
     padding-top: 8rem;
     text-align: center;
     color: $dutchOrange;
-    & div {
-        margin: 2rem 0;
-    }
+    
 
     & .text {
         font-weight: 400;

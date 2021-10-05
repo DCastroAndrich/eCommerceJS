@@ -25,32 +25,16 @@
         right: 6rem;
     }
 
-    .banner {
-        padding-top: 0;
-        display: grid;
-        grid-template-columns: 55% 45%;
-        align-content: center;
-    }
+  
 
     .banner__content {
-        text-align: left;
+        text-align: center;
     }
 
     .product__list {
         grid-template-columns: repeat(3, 1fr);
     }
 
-    .footer__banner {
-        text-align: left;
-
-        & .text {
-            width: 50%;
-        }
-
-        & .btn {
-            margin-left: 0;
-        }
-    }
 }
         
 
